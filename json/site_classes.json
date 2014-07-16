@@ -1,0 +1,26 @@
+[
+	{
+		"Site Properties": "A",
+		"value": "A - Hard Rock"
+	},
+	{
+		"Site Properties": "B",
+		"value": "B - Rock"
+	},
+	{
+		"Site Properties": "C",
+		"value": "C - Very Dense Soil and Soft Rock"
+	},
+	{
+		"Site Properties": "D",
+		"value": "D - Stiff Soil"
+	},
+	{
+		"Site Properties": "E",
+		"value": "E - Soft Soil"
+	},
+	{
+		"Site Properties": "F",
+		"value": "F - Other"
+	}
+]

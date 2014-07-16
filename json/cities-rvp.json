@@ -1,0 +1,3397 @@
+[
+	{
+		"Province": "AB",
+		"City": "Athabasca",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Banff",
+		"q": "0.32"
+	},
+	{
+		"Province": "AB",
+		"City": "Barrhead",
+		"q": "0.44"
+	},
+	{
+		"Province": "AB",
+		"City": "Beaverlodge",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Brooks",
+		"q": "0.52"
+	},
+	{
+		"Province": "AB",
+		"City": "Calgary",
+		"q": "0.48"
+	},
+	{
+		"Province": "AB",
+		"City": "Campsie",
+		"q": "0.44"
+	},
+	{
+		"Province": "AB",
+		"City": "Camrose",
+		"q": "0.39"
+	},
+	{
+		"Province": "AB",
+		"City": "Canmore",
+		"q": "0.37"
+	},
+	{
+		"Province": "AB",
+		"City": "Cardston",
+		"q": "0.72"
+	},
+	{
+		"Province": "AB",
+		"City": "Claresholm",
+		"q": "0.58"
+	},
+	{
+		"Province": "AB",
+		"City": "Cold Lake",
+		"q": "0.38"
+	},
+	{
+		"Province": "AB",
+		"City": "Coleman",
+		"q": "0.63"
+	},
+	{
+		"Province": "AB",
+		"City": "Coronation",
+		"q": "0.37"
+	},
+	{
+		"Province": "AB",
+		"City": "Cowley",
+		"q": "1.01"
+	},
+	{
+		"Province": "AB",
+		"City": "Drumheller",
+		"q": "0.44"
+	},
+	{
+		"Province": "AB",
+		"City": "Edmonton",
+		"q": "0.45"
+	},
+	{
+		"Province": "AB",
+		"City": "Edson",
+		"q": "0.46"
+	},
+	{
+		"Province": "AB",
+		"City": "Embarras Portage",
+		"q": "0.37"
+	},
+	{
+		"Province": "AB",
+		"City": "Fairview",
+		"q": "0.35"
+	},
+	{
+		"Province": "AB",
+		"City": "Fort MacLeod",
+		"q": "0.68"
+	},
+	{
+		"Province": "AB",
+		"City": "Fort McMurray",
+		"q": "0.35"
+	},
+	{
+		"Province": "AB",
+		"City": "Fort Saskatchewan",
+		"q": "0.43"
+	},
+	{
+		"Province": "AB",
+		"City": "Fort Vermilion",
+		"q": "0.3"
+	},
+	{
+		"Province": "AB",
+		"City": "Grande Prairie",
+		"q": "0.43"
+	},
+	{
+		"Province": "AB",
+		"City": "Habay",
+		"q": "0.3"
+	},
+	{
+		"Province": "AB",
+		"City": "Hardisty",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "High River",
+		"q": "0.65"
+	},
+	{
+		"Province": "AB",
+		"City": "Hinton",
+		"q": "0.46"
+	},
+	{
+		"Province": "AB",
+		"City": "Jasper",
+		"q": "0.32"
+	},
+	{
+		"Province": "AB",
+		"City": "Keg River",
+		"q": "0.3"
+	},
+	{
+		"Province": "AB",
+		"City": "Lac la Biche",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Lacombe",
+		"q": "0.4"
+	},
+	{
+		"Province": "AB",
+		"City": "Lethbridge",
+		"q": "0.66"
+	},
+	{
+		"Province": "AB",
+		"City": "Manning",
+		"q": "0.3"
+	},
+	{
+		"Province": "AB",
+		"City": "Medicine Hat",
+		"q": "0.48"
+	},
+	{
+		"Province": "AB",
+		"City": "Peace River",
+		"q": "0.32"
+	},
+	{
+		"Province": "AB",
+		"City": "Pincher Creek",
+		"q": "0.96"
+	},
+	{
+		"Province": "AB",
+		"City": "Ranfurly",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Red Deer",
+		"q": "0.4"
+	},
+	{
+		"Province": "AB",
+		"City": "Rocky Mountain House",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Slave Lake",
+		"q": "0.37"
+	},
+	{
+		"Province": "AB",
+		"City": "Stettler",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Stony Plain",
+		"q": "0.45"
+	},
+	{
+		"Province": "AB",
+		"City": "Suffield",
+		"q": "0.49"
+	},
+	{
+		"Province": "AB",
+		"City": "Taber",
+		"q": "0.63"
+	},
+	{
+		"Province": "AB",
+		"City": "Turner Valley",
+		"q": "0.65"
+	},
+	{
+		"Province": "AB",
+		"City": "Valleyview",
+		"q": "0.42"
+	},
+	{
+		"Province": "AB",
+		"City": "Vegreville",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Vermilion",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Wagner",
+		"q": "0.37"
+	},
+	{
+		"Province": "AB",
+		"City": "Wainwright",
+		"q": "0.36"
+	},
+	{
+		"Province": "AB",
+		"City": "Wetaskiwin",
+		"q": "0.39"
+	},
+	{
+		"Province": "AB",
+		"City": "Whitecourt",
+		"q": "0.37"
+	},
+	{
+		"Province": "AB",
+		"City": "Wimborne",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "100 Mile House",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "Abbotsford",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Agassiz",
+		"q": "0.47"
+	},
+	{
+		"Province": "BC",
+		"City": "Alberni",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Ashcroft",
+		"q": "0.38"
+	},
+	{
+		"Province": "BC",
+		"City": "Bamfield",
+		"q": "0.5"
+	},
+	{
+		"Province": "BC",
+		"City": "Beatton River",
+		"q": "0.3"
+	},
+	{
+		"Province": "BC",
+		"City": "Bella Bella",
+		"q": "0.5"
+	},
+	{
+		"Province": "BC",
+		"City": "Bella Coola",
+		"q": "0.39"
+	},
+	{
+		"Province": "BC",
+		"City": "Burnaby (Simon Fraser Univ.)",
+		"q": "0.47"
+	},
+	{
+		"Province": "BC",
+		"City": "Burns Lake",
+		"q": "0.39"
+	},
+	{
+		"Province": "BC",
+		"City": "Cache Creek",
+		"q": "0.39"
+	},
+	{
+		"Province": "BC",
+		"City": "Campbell River",
+		"q": "0.52"
+	},
+	{
+		"Province": "BC",
+		"City": "Carmi",
+		"q": "0.38"
+	},
+	{
+		"Province": "BC",
+		"City": "Castlegar",
+		"q": "0.34"
+	},
+	{
+		"Province": "BC",
+		"City": "Chetwynd",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Chilliwack",
+		"q": "0.47"
+	},
+	{
+		"Province": "BC",
+		"City": "Cloverdale",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Comox",
+		"q": "0.52"
+	},
+	{
+		"Province": "BC",
+		"City": "Courtenay",
+		"q": "0.52"
+	},
+	{
+		"Province": "BC",
+		"City": "Cranbrook",
+		"q": "0.33"
+	},
+	{
+		"Province": "BC",
+		"City": "Crescent Valley",
+		"q": "0.33"
+	},
+	{
+		"Province": "BC",
+		"City": "Crofton",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Dawson Creek",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Dease Lake",
+		"q": "0.3"
+	},
+	{
+		"Province": "BC",
+		"City": "Dog Creek",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "Duncan",
+		"q": "0.39"
+	},
+	{
+		"Province": "BC",
+		"City": "Elko",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Fernie",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Fort Nelson",
+		"q": "0.3"
+	},
+	{
+		"Province": "BC",
+		"City": "Fort St. John",
+		"q": "0.39"
+	},
+	{
+		"Province": "BC",
+		"City": "Glacier",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Gold River",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Golden",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "Grand Forks",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Greenwood",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Haney",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Hope",
+		"q": "0.63"
+	},
+	{
+		"Province": "BC",
+		"City": "Jordan River",
+		"q": "0.55"
+	},
+	{
+		"Province": "BC",
+		"City": "Kamloops",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Kaslo",
+		"q": "0.31"
+	},
+	{
+		"Province": "BC",
+		"City": "Kelowna",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Kimberley",
+		"q": "0.33"
+	},
+	{
+		"Province": "BC",
+		"City": "Kitimat Plant",
+		"q": "0.48"
+	},
+	{
+		"Province": "BC",
+		"City": "Kitimat Townsite",
+		"q": "0.48"
+	},
+	{
+		"Province": "BC",
+		"City": "Ladner",
+		"q": "0.46"
+	},
+	{
+		"Province": "BC",
+		"City": "Ladysmith",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Langford",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Langley",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Lillooet",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Lytton",
+		"q": "0.43"
+	},
+	{
+		"Province": "BC",
+		"City": "Mackenzie",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Masset",
+		"q": "0.61"
+	},
+	{
+		"Province": "BC",
+		"City": "McBride",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "McLeod Lake",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Merritt",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Mission City",
+		"q": "0.43"
+	},
+	{
+		"Province": "BC",
+		"City": "Montrose",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "Nakusp",
+		"q": "0.33"
+	},
+	{
+		"Province": "BC",
+		"City": "Nanaimo",
+		"q": "0.5"
+	},
+	{
+		"Province": "BC",
+		"City": "Nelson",
+		"q": "0.33"
+	},
+	{
+		"Province": "BC",
+		"City": "New Westminster",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "North Vancouver",
+		"q": "0.45"
+	},
+	{
+		"Province": "BC",
+		"City": "Ocean Falls",
+		"q": "0.59"
+	},
+	{
+		"Province": "BC",
+		"City": "Osoyoos",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Parksville",
+		"q": "0.5"
+	},
+	{
+		"Province": "BC",
+		"City": "Penticton",
+		"q": "0.45"
+	},
+	{
+		"Province": "BC",
+		"City": "Port Alberni",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Port Alice",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Port Hardy",
+		"q": "0.52"
+	},
+	{
+		"Province": "BC",
+		"City": "Port McNeill",
+		"q": "0.52"
+	},
+	{
+		"Province": "BC",
+		"City": "Port Renfrew",
+		"q": "0.52"
+	},
+	{
+		"Province": "BC",
+		"City": "Powell River",
+		"q": "0.51"
+	},
+	{
+		"Province": "BC",
+		"City": "Prince George",
+		"q": "0.37"
+	},
+	{
+		"Province": "BC",
+		"City": "Prince Rupert",
+		"q": "0.54"
+	},
+	{
+		"Province": "BC",
+		"City": "Princeton",
+		"q": "0.36"
+	},
+	{
+		"Province": "BC",
+		"City": "Qualicum Beach",
+		"q": "0.53"
+	},
+	{
+		"Province": "BC",
+		"City": "Queen Charlotte City",
+		"q": "0.61"
+	},
+	{
+		"Province": "BC",
+		"City": "Quesnel",
+		"q": "0.31"
+	},
+	{
+		"Province": "BC",
+		"City": "Revelstoke",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "Richmond",
+		"q": "0.45"
+	},
+	{
+		"Province": "BC",
+		"City": "Salmon Arm",
+		"q": "0.39"
+	},
+	{
+		"Province": "BC",
+		"City": "Sandspit",
+		"q": "0.78"
+	},
+	{
+		"Province": "BC",
+		"City": "Sechelt",
+		"q": "0.48"
+	},
+	{
+		"Province": "BC",
+		"City": "Sidney",
+		"q": "0.42"
+	},
+	{
+		"Province": "BC",
+		"City": "Smith River",
+		"q": "0.3"
+	},
+	{
+		"Province": "BC",
+		"City": "Smithers",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Sooke",
+		"q": "0.48"
+	},
+	{
+		"Province": "BC",
+		"City": "Squamish",
+		"q": "0.5"
+	},
+	{
+		"Province": "BC",
+		"City": "Stewart",
+		"q": "0.36"
+	},
+	{
+		"Province": "BC",
+		"City": "Surrey (88 Ave & 156 St.)",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Tahsis",
+		"q": "0.34"
+	},
+	{
+		"Province": "BC",
+		"City": "Taylor",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Terrace",
+		"q": "0.36"
+	},
+	{
+		"Province": "BC",
+		"City": "Tofino",
+		"q": "0.68"
+	},
+	{
+		"Province": "BC",
+		"City": "Trail",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "Ucluelet",
+		"q": "0.68"
+	},
+	{
+		"Province": "BC",
+		"City": "Vancouver (City Hall)",
+		"q": "0.45"
+	},
+	{
+		"Province": "BC",
+		"City": "Vancouver (Granville & 41 Ave)",
+		"q": "0.45"
+	},
+	{
+		"Province": "BC",
+		"City": "Vernon",
+		"q": "0.4"
+	},
+	{
+		"Province": "BC",
+		"City": "Victoria",
+		"q": "0.57"
+	},
+	{
+		"Province": "BC",
+		"City": "Victoria (Gonzales Hts)",
+		"q": "0.57"
+	},
+	{
+		"Province": "BC",
+		"City": "Victoria (Mt Tolmie)",
+		"q": "0.63"
+	},
+	{
+		"Province": "BC",
+		"City": "West Vancouver",
+		"q": "0.48"
+	},
+	{
+		"Province": "BC",
+		"City": "Whistler",
+		"q": "0.32"
+	},
+	{
+		"Province": "BC",
+		"City": "White Rock",
+		"q": "0.44"
+	},
+	{
+		"Province": "BC",
+		"City": "Williams Lake",
+		"q": "0.35"
+	},
+	{
+		"Province": "BC",
+		"City": "Youbou",
+		"q": "0.32"
+	},
+	{
+		"Province": "MB",
+		"City": "Beausejour",
+		"q": "0.41"
+	},
+	{
+		"Province": "MB",
+		"City": "Boissevain",
+		"q": "0.52"
+	},
+	{
+		"Province": "MB",
+		"City": "Brandon",
+		"q": "0.49"
+	},
+	{
+		"Province": "MB",
+		"City": "Churchill",
+		"q": "0.55"
+	},
+	{
+		"Province": "MB",
+		"City": "Dauphin",
+		"q": "0.4"
+	},
+	{
+		"Province": "MB",
+		"City": "Flin Flon",
+		"q": "0.35"
+	},
+	{
+		"Province": "MB",
+		"City": "Gimli",
+		"q": "0.4"
+	},
+	{
+		"Province": "MB",
+		"City": "Island Lake",
+		"q": "0.37"
+	},
+	{
+		"Province": "MB",
+		"City": "Lac du Bonnet",
+		"q": "0.37"
+	},
+	{
+		"Province": "MB",
+		"City": "Lynn Lake",
+		"q": "0.37"
+	},
+	{
+		"Province": "MB",
+		"City": "Morden",
+		"q": "0.52"
+	},
+	{
+		"Province": "MB",
+		"City": "Neepawa",
+		"q": "0.44"
+	},
+	{
+		"Province": "MB",
+		"City": "Pine Falls",
+		"q": "0.39"
+	},
+	{
+		"Province": "MB",
+		"City": "Portage la Prairie",
+		"q": "0.46"
+	},
+	{
+		"Province": "MB",
+		"City": "Rivers",
+		"q": "0.46"
+	},
+	{
+		"Province": "MB",
+		"City": "Sandilands",
+		"q": "0.4"
+	},
+	{
+		"Province": "MB",
+		"City": "Selkirk",
+		"q": "0.41"
+	},
+	{
+		"Province": "MB",
+		"City": "Split Lake",
+		"q": "0.39"
+	},
+	{
+		"Province": "MB",
+		"City": "Steinbach",
+		"q": "0.4"
+	},
+	{
+		"Province": "MB",
+		"City": "Swan River",
+		"q": "0.35"
+	},
+	{
+		"Province": "MB",
+		"City": "The Pas",
+		"q": "0.37"
+	},
+	{
+		"Province": "MB",
+		"City": "Thompson",
+		"q": "0.36"
+	},
+	{
+		"Province": "MB",
+		"City": "Virden",
+		"q": "0.46"
+	},
+	{
+		"Province": "MB",
+		"City": "Winnipeg",
+		"q": "0.45"
+	},
+	{
+		"Province": "NB",
+		"City": "Alma",
+		"q": "0.48"
+	},
+	{
+		"Province": "NB",
+		"City": "Bathurst",
+		"q": "0.48"
+	},
+	{
+		"Province": "NB",
+		"City": "Campbellton",
+		"q": "0.45"
+	},
+	{
+		"Province": "NB",
+		"City": "Edmundston",
+		"q": "0.38"
+	},
+	{
+		"Province": "NB",
+		"City": "Fredericton",
+		"q": "0.38"
+	},
+	{
+		"Province": "NB",
+		"City": "Gagetown",
+		"q": "0.4"
+	},
+	{
+		"Province": "NB",
+		"City": "Grand Falls",
+		"q": "0.38"
+	},
+	{
+		"Province": "NB",
+		"City": "Miramichi",
+		"q": "0.41"
+	},
+	{
+		"Province": "NB",
+		"City": "Moncton",
+		"q": "0.5"
+	},
+	{
+		"Province": "NB",
+		"City": "Oromocto",
+		"q": "0.39"
+	},
+	{
+		"Province": "NB",
+		"City": "Sackville",
+		"q": "0.49"
+	},
+	{
+		"Province": "NB",
+		"City": "Saint Andrews",
+		"q": "0.45"
+	},
+	{
+		"Province": "NB",
+		"City": "Saint George",
+		"q": "0.45"
+	},
+	{
+		"Province": "NB",
+		"City": "Saint John",
+		"q": "0.53"
+	},
+	{
+		"Province": "NB",
+		"City": "Shippagan",
+		"q": "0.63"
+	},
+	{
+		"Province": "NB",
+		"City": "St. Stephen",
+		"q": "0.42"
+	},
+	{
+		"Province": "NB",
+		"City": "Woodstock",
+		"q": "0.37"
+	},
+	{
+		"Province": "NL",
+		"City": "Argentia",
+		"q": "0.75"
+	},
+	{
+		"Province": "NL",
+		"City": "Bonavista",
+		"q": "0.84"
+	},
+	{
+		"Province": "NL",
+		"City": "Buchans",
+		"q": "0.6"
+	},
+	{
+		"Province": "NL",
+		"City": "Cape Harrison",
+		"q": "0.6"
+	},
+	{
+		"Province": "NL",
+		"City": "Cape Race",
+		"q": "1.05"
+	},
+	{
+		"Province": "NL",
+		"City": "Channel-Port aux Basques",
+		"q": "0.78"
+	},
+	{
+		"Province": "NL",
+		"City": "Corner Brook",
+		"q": "0.55"
+	},
+	{
+		"Province": "NL",
+		"City": "Gander",
+		"q": "0.6"
+	},
+	{
+		"Province": "NL",
+		"City": "Grand Bank",
+		"q": "0.74"
+	},
+	{
+		"Province": "NL",
+		"City": "Grand Falls",
+		"q": "0.6"
+	},
+	{
+		"Province": "NL",
+		"City": "Happy Valley-Goose Bay",
+		"q": "0.42"
+	},
+	{
+		"Province": "NL",
+		"City": "Labrador City",
+		"q": "0.4"
+	},
+	{
+		"Province": "NL",
+		"City": "St. Anthony",
+		"q": "0.87"
+	},
+	{
+		"Province": "NL",
+		"City": "St. John’s",
+		"q": "0.78"
+	},
+	{
+		"Province": "NL",
+		"City": "Stephenville",
+		"q": "0.58"
+	},
+	{
+		"Province": "NL",
+		"City": "Twin Falls",
+		"q": "0.4"
+	},
+	{
+		"Province": "NL",
+		"City": "Wabana",
+		"q": "0.75"
+	},
+	{
+		"Province": "NL",
+		"City": "Wabush",
+		"q": "0.4"
+	},
+	{
+		"Province": "NS",
+		"City": "Amherst",
+		"q": "0.48"
+	},
+	{
+		"Province": "NS",
+		"City": "Antigonish",
+		"q": "0.54"
+	},
+	{
+		"Province": "NS",
+		"City": "Bridgewater",
+		"q": "0.55"
+	},
+	{
+		"Province": "NS",
+		"City": "Canso",
+		"q": "0.61"
+	},
+	{
+		"Province": "NS",
+		"City": "Dartmouth",
+		"q": "0.58"
+	},
+	{
+		"Province": "NS",
+		"City": "Debert",
+		"q": "0.48"
+	},
+	{
+		"Province": "NS",
+		"City": "Digby",
+		"q": "0.55"
+	},
+	{
+		"Province": "NS",
+		"City": "Greenwood (CFB)",
+		"q": "0.54"
+	},
+	{
+		"Province": "NS",
+		"City": "Halifax",
+		"q": "0.58"
+	},
+	{
+		"Province": "NS",
+		"City": "Kentville",
+		"q": "0.54"
+	},
+	{
+		"Province": "NS",
+		"City": "Liverpool",
+		"q": "0.61"
+	},
+	{
+		"Province": "NS",
+		"City": "Lockeport",
+		"q": "0.6"
+	},
+	{
+		"Province": "NS",
+		"City": "Louisburg",
+		"q": "0.65"
+	},
+	{
+		"Province": "NS",
+		"City": "Lunenburg",
+		"q": "0.61"
+	},
+	{
+		"Province": "NS",
+		"City": "New Glasgow",
+		"q": "0.55"
+	},
+	{
+		"Province": "NS",
+		"City": "North Sydney",
+		"q": "0.59"
+	},
+	{
+		"Province": "NS",
+		"City": "Pictou",
+		"q": "0.55"
+	},
+	{
+		"Province": "NS",
+		"City": "Port Hawkesbury",
+		"q": "0.74"
+	},
+	{
+		"Province": "NS",
+		"City": "Springhill",
+		"q": "0.48"
+	},
+	{
+		"Province": "NS",
+		"City": "Stewiacke",
+		"q": "0.5"
+	},
+	{
+		"Province": "NS",
+		"City": "Sydney",
+		"q": "0.59"
+	},
+	{
+		"Province": "NS",
+		"City": "Tatamagouche",
+		"q": "0.55"
+	},
+	{
+		"Province": "NS",
+		"City": "Truro",
+		"q": "0.48"
+	},
+	{
+		"Province": "NS",
+		"City": "Wolfville",
+		"q": "0.54"
+	},
+	{
+		"Province": "NS",
+		"City": "Yarmouth",
+		"q": "0.56"
+	},
+	{
+		"Province": "NT",
+		"City": "Aklavik",
+		"q": "0.48"
+	},
+	{
+		"Province": "NT",
+		"City": "Echo Bay / Port Radium",
+		"q": "0.53"
+	},
+	{
+		"Province": "NT",
+		"City": "Fort Good Hope",
+		"q": "0.44"
+	},
+	{
+		"Province": "NT",
+		"City": "Fort McPherson",
+		"q": "0.4"
+	},
+	{
+		"Province": "NT",
+		"City": "Fort Providence",
+		"q": "0.35"
+	},
+	{
+		"Province": "NT",
+		"City": "Fort Resolution",
+		"q": "0.39"
+	},
+	{
+		"Province": "NT",
+		"City": "Fort Simpson",
+		"q": "0.39"
+	},
+	{
+		"Province": "NT",
+		"City": "Fort Smith",
+		"q": "0.39"
+	},
+	{
+		"Province": "NT",
+		"City": "Hay River",
+		"q": "0.35"
+	},
+	{
+		"Province": "NT",
+		"City": "Holman/Ulukhaqtuuq",
+		"q": "0.86"
+	},
+	{
+		"Province": "NT",
+		"City": "Inuvik",
+		"q": "0.48"
+	},
+	{
+		"Province": "NT",
+		"City": "Mould Bay",
+		"q": "0.58"
+	},
+	{
+		"Province": "NT",
+		"City": "Norman Wells",
+		"q": "0.44"
+	},
+	{
+		"Province": "NT",
+		"City": "Rae-Edzo",
+		"q": "0.47"
+	},
+	{
+		"Province": "NT",
+		"City": "Tungsten",
+		"q": "0.44"
+	},
+	{
+		"Province": "NT",
+		"City": "Wrigley",
+		"q": "0.39"
+	},
+	{
+		"Province": "NT",
+		"City": "Yellowknife",
+		"q": "0.47"
+	},
+	{
+		"Province": "NU",
+		"City": "Alert",
+		"q": "0.75"
+	},
+	{
+		"Province": "NU",
+		"City": "Arctic Bay",
+		"q": "0.55"
+	},
+	{
+		"Province": "NU",
+		"City": "Arviat / Eskimo Point",
+		"q": "0.58"
+	},
+	{
+		"Province": "NU",
+		"City": "Baker Lake",
+		"q": "0.54"
+	},
+	{
+		"Province": "NU",
+		"City": "Cambridge Bay/Iqaluktuuttiaq",
+		"q": "0.54"
+	},
+	{
+		"Province": "NU",
+		"City": "Chesterfield Inlet/Igluligaarjuk",
+		"q": "0.56"
+	},
+	{
+		"Province": "NU",
+		"City": "Clyde River/Kanngiqtugaapik",
+		"q": "0.72"
+	},
+	{
+		"Province": "NU",
+		"City": "Coppermine (Kugluktuk)",
+		"q": "0.46"
+	},
+	{
+		"Province": "NU",
+		"City": "Coral Harbour/Salliq",
+		"q": "0.69"
+	},
+	{
+		"Province": "NU",
+		"City": "Eureka",
+		"q": "0.55"
+	},
+	{
+		"Province": "NU",
+		"City": "Iqaluit",
+		"q": "0.58"
+	},
+	{
+		"Province": "NU",
+		"City": "Isachsen",
+		"q": "0.6"
+	},
+	{
+		"Province": "NU",
+		"City": "Nottingham Island",
+		"q": "0.78"
+	},
+	{
+		"Province": "NU",
+		"City": "Rankin Inlet (Kangiqiniq)",
+		"q": "0.6"
+	},
+	{
+		"Province": "NU",
+		"City": "Resolute",
+		"q": "0.69"
+	},
+	{
+		"Province": "NU",
+		"City": "Resolution Island",
+		"q": "1.23"
+	},
+	{
+		"Province": "ON",
+		"City": "Ailsa Craig",
+		"q": "0.5"
+	},
+	{
+		"Province": "ON",
+		"City": "Ajax",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Alexandria",
+		"q": "0.4"
+	},
+	{
+		"Province": "ON",
+		"City": "Alliston",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Almonte",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Armstrong",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Arnprior",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Atikokan",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Attawapiskat",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Aurora",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Bancroft",
+		"q": "0.32"
+	},
+	{
+		"Province": "ON",
+		"City": "Barrie",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Barriefield",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Beaverton",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Belleville",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Belmont",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Bracebridge",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Bradford",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Brampton",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Brantford",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Brighton",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Brockville",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Burk’s Falls",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Burlington",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Cambridge",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Campbellford",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Cannington",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Carleton Place",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Cavan",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Centralia",
+		"q": "0.49"
+	},
+	{
+		"Province": "ON",
+		"City": "CFB Borden",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Chapleau",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Chatham",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Chesley",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Clinton",
+		"q": "0.49"
+	},
+	{
+		"Province": "ON",
+		"City": "Coboconk",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Cobourg",
+		"q": "0.49"
+	},
+	{
+		"Province": "ON",
+		"City": "Cochrane",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Colborne",
+		"q": "0.49"
+	},
+	{
+		"Province": "ON",
+		"City": "Collingwood",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Cornwall",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Corunna",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Deep River",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Deseronto",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Dorchester",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Dorion",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Dresden",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Dryden",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Dundalk",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Dunnville",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Durham",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Dutton",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Earlton",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "Edison",
+		"q": "0.31"
+	},
+	{
+		"Province": "ON",
+		"City": "Elliot Lake",
+		"q": "0.38"
+	},
+	{
+		"Province": "ON",
+		"City": "Elmvale",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Embro",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Englehart",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Espanola",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Etobicoke",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Exeter",
+		"q": "0.49"
+	},
+	{
+		"Province": "ON",
+		"City": "Fenelon Falls",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Fergus",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Forest",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Fort Erie",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Fort Erie (Ridgeway)",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Fort Frances",
+		"q": "0.31"
+	},
+	{
+		"Province": "ON",
+		"City": "Gananoque",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Geraldton",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Glencoe",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Goderich",
+		"q": "0.55"
+	},
+	{
+		"Province": "ON",
+		"City": "Gore Bay",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Graham",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Gravenhurst (Muskoka Airport)",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Grimsby",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Guelph",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Guthrie",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Haileybury",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Haldimand (Caledonia)",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Haldimand (Hagersville)",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Haliburton",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Halton Hills (Georgetown)",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Hamilton",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Hanover",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Hastings",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Hawkesbury",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Hearst",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Honey Harbour",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Hornepayne",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Huntsville",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Ingersoll",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Iroquois Falls",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Jellicoe",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Kapuskasing",
+		"q": "0.31"
+	},
+	{
+		"Province": "ON",
+		"City": "Kemptville",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Kenora",
+		"q": "0.31"
+	},
+	{
+		"Province": "ON",
+		"City": "Killaloe",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Kincardine",
+		"q": "0.55"
+	},
+	{
+		"Province": "ON",
+		"City": "Kingston",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Kinmount",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Kirkland Lake",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Kitchener",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Kitchenuhmaykoosib (Big Trout Lake)",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Lakefield",
+		"q": "0.38"
+	},
+	{
+		"Province": "ON",
+		"City": "Lansdowne House",
+		"q": "0.32"
+	},
+	{
+		"Province": "ON",
+		"City": "Leamington",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Lindsay",
+		"q": "0.38"
+	},
+	{
+		"Province": "ON",
+		"City": "Lion’s Head",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Listowel",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "London",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Lucan",
+		"q": "0.5"
+	},
+	{
+		"Province": "ON",
+		"City": "Maitland",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Markdale",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Markham",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Martin",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Matheson",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Mattawa",
+		"q": "0.32"
+	},
+	{
+		"Province": "ON",
+		"City": "Midland",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Milton",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Milverton",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Minden",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Mississauga",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Mississauga (Lester B. Pearson Int’l Airport)",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Mississauga (Port Credit)",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Mitchell",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Moosonee",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Morrisburg",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Mount Forest",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Nakina",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Nanticoke (Jarvis)",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Nanticoke (Port Dover)",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Napanee",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "New Liskeard",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "Newcastle",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Newcastle (Bowmanville)",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Newmarket",
+		"q": "0.38"
+	},
+	{
+		"Province": "ON",
+		"City": "Niagara Falls",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "North Bay",
+		"q": "0.34"
+	},
+	{
+		"Province": "ON",
+		"City": "North York",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Norwood",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Oakville",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Orangeville",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Orillia",
+		"q": "0.36"
+	},
+	{
+		"Province": "ON",
+		"City": "Oshawa",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Ottawa (Barrhaven)",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Ottawa (City Hall)",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Ottawa (Kanata)",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Ottawa (M-C Int’l Airport)",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Ottawa (Orleans)",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Owen Sound",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Pagwa River",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Paris",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Parkhill",
+		"q": "0.5"
+	},
+	{
+		"Province": "ON",
+		"City": "Parry Sound",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Pelham (Fonthill)",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Pembroke",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Penetanguishene",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Perth",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Petawawa",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Peterborough",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Petrolia",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Pickering (Dunbarton)",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Picton",
+		"q": "0.49"
+	},
+	{
+		"Province": "ON",
+		"City": "Plattsville",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Point Alexander",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Port Burwell",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Port Colborne",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Port Elgin",
+		"q": "0.55"
+	},
+	{
+		"Province": "ON",
+		"City": "Port Hope",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Port Perry",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Port Stanley",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Prescott",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Princeton",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Raith",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Rayside-Balfour (Chelmsford)",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "Red Lake",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Renfrew",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Richmond Hill",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Rockland",
+		"q": "0.4"
+	},
+	{
+		"Province": "ON",
+		"City": "Sarnia",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Sault Ste. Marie",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Scarborough",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Schreiber",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Seaforth",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Shelburne",
+		"q": "0.4"
+	},
+	{
+		"Province": "ON",
+		"City": "Simcoe",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "Sioux Lookout",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Smiths Falls",
+		"q": "0.41"
+	},
+	{
+		"Province": "ON",
+		"City": "Smithville",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Smooth Rock Falls",
+		"q": "0.32"
+	},
+	{
+		"Province": "ON",
+		"City": "South River",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Southampton",
+		"q": "0.53"
+	},
+	{
+		"Province": "ON",
+		"City": "St. Catharines",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "St. Mary’s",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "St. Thomas",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Stirling",
+		"q": "0.4"
+	},
+	{
+		"Province": "ON",
+		"City": "Stratford",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "Strathroy",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Sturgeon Falls",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Sudbury",
+		"q": "0.46"
+	},
+	{
+		"Province": "ON",
+		"City": "Sundridge",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Tavistock",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "Temagami",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Thamesford",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Thedford",
+		"q": "0.5"
+	},
+	{
+		"Province": "ON",
+		"City": "Thunder Bay",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Tillsonburg",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Timmins",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Timmins (Porcupine)",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Toronto (City Hall)",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Trenton",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Trout Creek",
+		"q": "0.35"
+	},
+	{
+		"Province": "ON",
+		"City": "Uxbridge",
+		"q": "0.42"
+	},
+	{
+		"Province": "ON",
+		"City": "Vaughan (Woodbridge)",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Vittoria",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Walkerton",
+		"q": "0.5"
+	},
+	{
+		"Province": "ON",
+		"City": "Wallaceburg",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "Waterloo",
+		"q": "0.37"
+	},
+	{
+		"Province": "ON",
+		"City": "Watford",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Wawa",
+		"q": "0.39"
+	},
+	{
+		"Province": "ON",
+		"City": "Welland",
+		"q": "0.43"
+	},
+	{
+		"Province": "ON",
+		"City": "West Lorne",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Whitby",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Whitby (Brooklin)",
+		"q": "0.45"
+	},
+	{
+		"Province": "ON",
+		"City": "White River",
+		"q": "0.3"
+	},
+	{
+		"Province": "ON",
+		"City": "Wiarton",
+		"q": "0.48"
+	},
+	{
+		"Province": "ON",
+		"City": "Windsor",
+		"q": "0.47"
+	},
+	{
+		"Province": "ON",
+		"City": "Wingham",
+		"q": "0.5"
+	},
+	{
+		"Province": "ON",
+		"City": "Woodstock",
+		"q": "0.44"
+	},
+	{
+		"Province": "ON",
+		"City": "Wyoming",
+		"q": "0.47"
+	},
+	{
+		"Province": "PE",
+		"City": "Charlottetown",
+		"q": "0.56"
+	},
+	{
+		"Province": "PE",
+		"City": "Souris",
+		"q": "0.58"
+	},
+	{
+		"Province": "PE",
+		"City": "Summerside",
+		"q": "0.6"
+	},
+	{
+		"Province": "PE",
+		"City": "Tignish",
+		"q": "0.66"
+	},
+	{
+		"Province": "QC",
+		"City": "Acton-Vale",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Alma",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Amos",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Ancienne-Lorette",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Asbestos",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Aylmer",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Baie-Comeau",
+		"q": "0.5"
+	},
+	{
+		"Province": "QC",
+		"City": "Baie-Saint-Paul",
+		"q": "0.48"
+	},
+	{
+		"Province": "QC",
+		"City": "Beaconsfield",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Beauport",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Bedford",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Beloeil",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "Brome",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "Brossard",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Buckingham",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Campbell’s Bay",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Chambly",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Coaticook",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Contrecoeur",
+		"q": "0.43"
+	},
+	{
+		"Province": "QC",
+		"City": "Cowansville",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Deux-Montagnes",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "Dolbeau",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Dorval",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Drummondville",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Farnham",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "Fort-Coulonge",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Gagnon",
+		"q": "0.39"
+	},
+	{
+		"Province": "QC",
+		"City": "Gaspé",
+		"q": "0.48"
+	},
+	{
+		"Province": "QC",
+		"City": "Gatineau",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Gracefield",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Granby",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Harrington-Harbour",
+		"q": "0.72"
+	},
+	{
+		"Province": "QC",
+		"City": "Havre-St-Pierre",
+		"q": "0.63"
+	},
+	{
+		"Province": "QC",
+		"City": "Hemmingford",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Hull",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Iberville",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Inukjuak",
+		"q": "0.6"
+	},
+	{
+		"Province": "QC",
+		"City": "Joliette",
+		"q": "0.36"
+	},
+	{
+		"Province": "QC",
+		"City": "Kuujjuaq",
+		"q": "0.6"
+	},
+	{
+		"Province": "QC",
+		"City": "Kuujjuarapik",
+		"q": "0.55"
+	},
+	{
+		"Province": "QC",
+		"City": "La Pocatière",
+		"q": "0.5"
+	},
+	{
+		"Province": "QC",
+		"City": "Lachute",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Lac-Mégantic",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "La-Malbaie",
+		"q": "0.48"
+	},
+	{
+		"Province": "QC",
+		"City": "La-Tuque",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Laval",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Lennoxville",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Léry",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Lévis",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Loretteville",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Louiseville",
+		"q": "0.43"
+	},
+	{
+		"Province": "QC",
+		"City": "Magog",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Malartic",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Maniwaki",
+		"q": "0.31"
+	},
+	{
+		"Province": "QC",
+		"City": "Masson",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Matane",
+		"q": "0.6"
+	},
+	{
+		"Province": "QC",
+		"City": "Mont-Joli",
+		"q": "0.52"
+	},
+	{
+		"Province": "QC",
+		"City": "Mont-Laurier",
+		"q": "0.3"
+	},
+	{
+		"Province": "QC",
+		"City": "Montmagny",
+		"q": "0.47"
+	},
+	{
+		"Province": "QC",
+		"City": "Montréal (City Hall)",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Montréal-Est",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Montréal-Nord",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Nicolet (Gentilly)",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Nitchequon",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "Noranda",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Outremont",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Percé",
+		"q": "0.72"
+	},
+	{
+		"Province": "QC",
+		"City": "Pierrefonds",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Pincourt",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Plessisville",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Port-Cartier",
+		"q": "0.54"
+	},
+	{
+		"Province": "QC",
+		"City": "Puvirnituq",
+		"q": "0.6"
+	},
+	{
+		"Province": "QC",
+		"City": "Québec",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Richmond",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Rimouski",
+		"q": "0.52"
+	},
+	{
+		"Province": "QC",
+		"City": "Rivière-du-Loup",
+		"q": "0.5"
+	},
+	{
+		"Province": "QC",
+		"City": "Roberval",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Rock-Island",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Rosemère",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Rouyn",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Saguenay",
+		"q": "0.36"
+	},
+	{
+		"Province": "QC",
+		"City": "Saguenay (Bagotville)",
+		"q": "0.38"
+	},
+	{
+		"Province": "QC",
+		"City": "Saguenay (Jonquière)",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Saguenay (Kenogami)",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Saint-Eustache",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "Saint-Hubert-de-Rivière-du-Loup",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Saint-Jean-sur-Richelieu",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Salaberry-de-Valleyfield",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Schefferville",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Senneterre",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Sept-Îles",
+		"q": "0.54"
+	},
+	{
+		"Province": "QC",
+		"City": "Shawinigan",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Shawville",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Sherbrooke",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Sillery",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Sorel",
+		"q": "0.43"
+	},
+	{
+		"Province": "QC",
+		"City": "Ste-Agathe-des-Monts",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Ste-Anne-de-Bellevue",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Ste-Foy",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Félicien",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Georges-de-Cacouna",
+		"q": "0.5"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Hubert",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Hyacinthe",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Jérôme",
+		"q": "0.37"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Jovite",
+		"q": "0.33"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Lambert",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Laurent",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Lazare-Hudson",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "St-Nicolas",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Sutton",
+		"q": "0.41"
+	},
+	{
+		"Province": "QC",
+		"City": "Tadoussac",
+		"q": "0.52"
+	},
+	{
+		"Province": "QC",
+		"City": "Témiscaming",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Terrebonne",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Thetford Mines",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Thurso",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Trois-Rivières",
+		"q": "0.43"
+	},
+	{
+		"Province": "QC",
+		"City": "Val-d’Or",
+		"q": "0.32"
+	},
+	{
+		"Province": "QC",
+		"City": "Varennes",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Verchères",
+		"q": "0.43"
+	},
+	{
+		"Province": "QC",
+		"City": "Verdun",
+		"q": "0.42"
+	},
+	{
+		"Province": "QC",
+		"City": "Victoriaville",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Ville-Marie",
+		"q": "0.4"
+	},
+	{
+		"Province": "QC",
+		"City": "Wakefield",
+		"q": "0.34"
+	},
+	{
+		"Province": "QC",
+		"City": "Waterloo",
+		"q": "0.35"
+	},
+	{
+		"Province": "QC",
+		"City": "Windsor",
+		"q": "0.32"
+	},
+	{
+		"Province": "SK",
+		"City": "Assiniboia",
+		"q": "0.49"
+	},
+	{
+		"Province": "SK",
+		"City": "Battrum",
+		"q": "0.54"
+	},
+	{
+		"Province": "SK",
+		"City": "Biggar",
+		"q": "0.45"
+	},
+	{
+		"Province": "SK",
+		"City": "Broadview",
+		"q": "0.46"
+	},
+	{
+		"Province": "SK",
+		"City": "Dafoe",
+		"q": "0.37"
+	},
+	{
+		"Province": "SK",
+		"City": "Dundurn",
+		"q": "0.46"
+	},
+	{
+		"Province": "SK",
+		"City": "Estevan",
+		"q": "0.52"
+	},
+	{
+		"Province": "SK",
+		"City": "Hudson Bay",
+		"q": "0.37"
+	},
+	{
+		"Province": "SK",
+		"City": "Humboldt",
+		"q": "0.39"
+	},
+	{
+		"Province": "SK",
+		"City": "Island Falls",
+		"q": "0.35"
+	},
+	{
+		"Province": "SK",
+		"City": "Kamsack",
+		"q": "0.4"
+	},
+	{
+		"Province": "SK",
+		"City": "Kindersley",
+		"q": "0.46"
+	},
+	{
+		"Province": "SK",
+		"City": "Lloydminster",
+		"q": "0.4"
+	},
+	{
+		"Province": "SK",
+		"City": "Maple Creek",
+		"q": "0.45"
+	},
+	{
+		"Province": "SK",
+		"City": "Meadow Lake",
+		"q": "0.4"
+	},
+	{
+		"Province": "SK",
+		"City": "Melfort",
+		"q": "0.36"
+	},
+	{
+		"Province": "SK",
+		"City": "Melville",
+		"q": "0.4"
+	},
+	{
+		"Province": "SK",
+		"City": "Moose Jaw",
+		"q": "0.52"
+	},
+	{
+		"Province": "SK",
+		"City": "Nipawin",
+		"q": "0.38"
+	},
+	{
+		"Province": "SK",
+		"City": "North Battleford",
+		"q": "0.46"
+	},
+	{
+		"Province": "SK",
+		"City": "Prince Albert",
+		"q": "0.38"
+	},
+	{
+		"Province": "SK",
+		"City": "Qu’Appelle",
+		"q": "0.42"
+	},
+	{
+		"Province": "SK",
+		"City": "Regina",
+		"q": "0.49"
+	},
+	{
+		"Province": "SK",
+		"City": "Rosetown",
+		"q": "0.49"
+	},
+	{
+		"Province": "SK",
+		"City": "Saskatoon",
+		"q": "0.43"
+	},
+	{
+		"Province": "SK",
+		"City": "Scott",
+		"q": "0.45"
+	},
+	{
+		"Province": "SK",
+		"City": "Strasbourg",
+		"q": "0.42"
+	},
+	{
+		"Province": "SK",
+		"City": "Swift Current",
+		"q": "0.54"
+	},
+	{
+		"Province": "SK",
+		"City": "Uranium City",
+		"q": "0.36"
+	},
+	{
+		"Province": "SK",
+		"City": "Weyburn",
+		"q": "0.48"
+	},
+	{
+		"Province": "SK",
+		"City": "Yorkton",
+		"q": "0.4"
+	},
+	{
+		"Province": "YT",
+		"City": "Aishihik",
+		"q": "0.38"
+	},
+	{
+		"Province": "YT",
+		"City": "Dawson",
+		"q": "0.31"
+	},
+	{
+		"Province": "YT",
+		"City": "Destruction Bay",
+		"q": "0.6"
+	},
+	{
+		"Province": "YT",
+		"City": "Faro",
+		"q": "0.35"
+	},
+	{
+		"Province": "YT",
+		"City": "Haines Junction",
+		"q": "0.34"
+	},
+	{
+		"Province": "YT",
+		"City": "Snag",
+		"q": "0.31"
+	},
+	{
+		"Province": "YT",
+		"City": "Teslin",
+		"q": "0.34"
+	},
+	{
+		"Province": "YT",
+		"City": "Watson Lake",
+		"q": "0.35"
+	},
+	{
+		"Province": "YT",
+		"City": "Whitehorse",
+		"q": "0.38"
+	}
+]

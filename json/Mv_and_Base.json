@@ -1,0 +1,112 @@
+[
+	{
+		"Rows": "1",
+		"Sa02Sa20": "< 8.0",
+		"TypeOfLRS": "Moment resisting frame",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1",
+		"MvForTaEqGt40": "1",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.9",
+		"JForTaEqGt40": "0.9"
+	},
+	{
+		"Rows": "2",
+		"Sa02Sa20": "< 8.0",
+		"TypeOfLRS": "Coupled wall",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1",
+		"MvForTaEqGt40": "1",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.9",
+		"JForTaEqGt40": "0.8"
+	},
+	{
+		"Rows": "3",
+		"Sa02Sa20": "< 8.0",
+		"TypeOfLRS": "Braced frame",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1",
+		"MvForTaEqGt40": "1",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.8",
+		"JForTaEqGt40": "0.8"
+	},
+	{
+		"Rows": "4",
+		"Sa02Sa20": "< 8.0",
+		"TypeOfLRS": "Wall, wall-frame system",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1.2",
+		"MvForTaEqGt40": "1.6",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.6",
+		"JForTaEqGt40": "0.5"
+	},
+	{
+		"Rows": "5",
+		"Sa02Sa20": "< 8.0",
+		"TypeOfLRS": "Other system",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1.2",
+		"MvForTaEqGt40": "1.2",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.6",
+		"JForTaEqGt40": "0.6"
+	},
+	{
+		"Rows": "6",
+		"Sa02Sa20": "? 8.0",
+		"TypeOfLRS": "Moment resisting frame",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1.2",
+		"MvForTaEqGt40": "1.2",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.7",
+		"JForTaEqGt40": "0.7"
+	},
+	{
+		"Rows": "7",
+		"Sa02Sa20": "? 8.0",
+		"TypeOfLRS": "Coupled wall",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1.2",
+		"MvForTaEqGt40": "1.2",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.7",
+		"JForTaEqGt40": "0.6"
+	},
+	{
+		"Rows": "8",
+		"Sa02Sa20": "? 8.0",
+		"TypeOfLRS": "Braced frame",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "1.5",
+		"MvForTaEqGt40": "1.5",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.6",
+		"JForTaEqGt40": "0.6"
+	},
+	{
+		"Rows": "9",
+		"Sa02Sa20": "? 8.0",
+		"TypeOfLRS": "Wall, wall-frame system",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "2.2",
+		"MvForTaEqGt40": "3",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.4",
+		"JForTaEqGt40": "0.3"
+	},
+	{
+		"Rows": "10",
+		"Sa02Sa20": "? 8.0",
+		"TypeOfLRS": "Other system",
+		"MvForTaEqLt10": "1",
+		"MvForTaEq20": "2.2",
+		"MvForTaEqGt40": "2.2",
+		"JForTaEqLt05": "1",
+		"JForTaEq20": "0.4",
+		"JForTaEqGt40": "0.4"
+	}
+]
