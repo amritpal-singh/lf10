@@ -13,7 +13,10 @@ function onDeviceReady(){
     if(session)
     {
         var input = JSON.parse(session);
-        input = input.data.screen2ViewModel;
+        if(input.data != undefined)
+        {
+            input = input.data.screen2ViewModel;
+        }
         vm.projectName(input.screen1ViewModel.projectName);
         vm.user(input.screen1ViewModel.user);
         vm.parapet(input.screen1ViewModel.parapet);

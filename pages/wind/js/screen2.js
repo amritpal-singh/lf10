@@ -20,7 +20,9 @@ function onDeviceReady()
     {
         window.localStorage.removeItem(storageKeys.windSessionInput);
         var input = JSON.parse(session);
-input = input.data.screen2ViewModel;
+        if(input.data != undefined)
+        {
+        input = input.data.screen2ViewModel;}
         vm.province(
             ko.utils.arrayFirst(vm.provinces(), function(item) {
                 return item.symbol == input.province.symbol;
