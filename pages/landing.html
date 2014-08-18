@@ -20,7 +20,7 @@
 			<div class="row-fluid">
 				<div class="span12">
 					<div class="row-fluid">
-						<a href="wind/index.html" class="span4 landing button">
+						<a href="javascript:void(0)" onclick="goTo('wind')" class="span4 landing button">
 							<img class="landingicon" src="../img/icon_formula.svg"/>
 				    		<h1>Lateral Forces NBC 2010<br>(WIND)</h1>
 						</a>
@@ -76,10 +76,16 @@
 		});
 
 		function goTo(to) {
-		
-			window.localStorage.removeItem(storageKeys.seismicSessionInput);
-			
-			navigateTo("seismic/index.html");
+			if(to == 'seismic')
+			{
+				window.localStorage.removeItem(storageKeys.seismicSessionInput);
+				navigateTo("seismic/index.html");
+			}
+			else
+			{
+				window.localStorage.removeItem(storageKeys.windSessionInput);
+				navigateTo("wind/index.html");
+			}
 		}
 		</script>
 	</body>
