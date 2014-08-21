@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.phonegap.example"
+        id          = "com.lften.app"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -16,6 +16,9 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         
     </author>
+    
+    <icon src="res/android/icon-72-hdpi.png" />
+    <gap:splash src="splash.jpg" />
     
     <platform name="ios">
               <!-- iOS 7.0+ -->
@@ -35,6 +38,21 @@
               <!-- iPad -->
               <icon src="res/ios/ios_72.png" width="72" height="72" />
               <icon src="res/ios/ios_114.png" width="144" height="144" />
+
+              <!-- iPhone and iPod touch -->
+              <gap:screen src="res/screen/IOS/bg_320x480.jpg" gap:platform="ios" width="320" height="480" />
+              <gap:screen src="res/screen/IOS/bg_640x960.jpg" gap:platform="ios" width="640" height="960" />
+
+              <!-- iPhone 5 / iPod Touch (5th Generation) -->
+              <gap:screen src="res/screen/IOS/bg_640x1136.jpg" gap:platform="ios" width="640" height="1136" />
+
+              <!-- iPad -->
+              <gap:screen src="res/screen/IOS/bg_768x1004.jpg" gap:platform="ios" width="768" height="1024" />
+              <gap:screen src="res/screen/IOS/bg_1024x768.jpg" gap:platform="ios" width="1024" height="768" />
+
+              <!-- Retina iPad -->
+              <gap:screen src="res/screen/IOS/bg_1536x2008.jpg" gap:platform="ios" width="1536" height="2048" />
+              <gap:screen src="res/screen/IOS/bg_2048x1496.jpg" gap:platform="ios" width="2048" height="1536" />
      </platform>
 
      <platform name="android">
@@ -42,10 +60,17 @@
               <icon src="res/android/icon-48-mdpi.png" density="mdpi" />
               <icon src="res/android/icon-72-hdpi.png" density="hdpi" />
               <icon src="res/android/icon-96-xhdpi.png" density="xhdpi" />
+
+               <gap:screen src="res/screen/Andriod/screen-ldpi-portrait.jpg" gap:platform="android" gap:qualifier="port-ldpi" />
+              <gap:screen src="res/screen/Andriod/screen-ldpi-landscape.jpg" gap:platform="android" gap:qualifier="land-ldpi" />
+              <gap:screen src="res/screen/Andriod/screen-mdpi-portrait.jpg" gap:platform="android" gap:qualifier="port-mdpi" />
+              <gap:screen src="res/screen/Andriod/screen-mdpi-landscape.jpg" gap:platform="android" gap:qualifier="land-mdpi" />
+              <gap:screen src="res/screen/Andriod/screen-hdpi-portrait.jpg" gap:platform="android" gap:qualifier="port-hdpi" />
+              <gap:screen src="res/screen/Andriod/screen-hdpi-landscape.jpg" gap:platform="android" gap:qualifier="land-hdpi" />
+              <gap:screen src="res/screen/Andriod/screen-xhdpi-landscape.jpg" gap:platform="android" gap:qualifier="port-xhdpi" />
+              <gap:screen src="res/screen/Andriod/screen-xhdpi-portrait.jpg" gap:platform="android" gap:qualifier="land-xhdpi" />
      </platform>
 
-     <feature name="SplashScreen">
-        <param name="ios-package" value="" />
-     </feature>
+     
 
 </widget>
