@@ -18,7 +18,11 @@
     </author>
     
     <icon src="res/android/icon-72-hdpi.png" />
-    <gap:splash src="splash.jpg" />
+    <gap:splash src="res/screen/ios/bg_320x480.png" gap:platform="ios" width="320" height="480" />
+    <gap:splash src="res/screen/ios/bg_640x960.png" gap:platform="ios" width="640" height="960" />
+    <gap:splash src="res/screen/ios/bg_640x1136.png" gap:platform="ios" width="640" height="1136" />
+    <gap:splash src="res/screen/ios/bg_768x1004.png" gap:platform="ios" width="768" height="1024" />
+    <gap:splash src="res/screen/ios/bg_1024x768.png" gap:platform="ios" width="1024" height="768" />
     
     <platform name="ios">
               <!-- iOS 7.0+ -->
