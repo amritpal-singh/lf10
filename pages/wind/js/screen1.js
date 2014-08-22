@@ -2,13 +2,15 @@
 $(document).ready(function () {
     //document.addEventListener("deviceready", onDeviceReady, false);
     onDeviceReady();
+    document.addEventListener('touchmove', function(e) { $(".footer").css('bottom',0);
+  console.log($(".footer").css('bottom')); }, false);
 
 });
 
-$( window ).scroll(function() {
-  $(".footer").css('bottom',0);
-  console.log($(".footer").css('bottom'));
-});
+// $( window ).scroll(function() {
+//   $(".footer").css('bottom',0);
+//   console.log($(".footer").css('bottom'));
+// });
 
 function onDeviceReady(){
 	console.log("onDeviceReady");
