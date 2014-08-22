@@ -5,7 +5,7 @@ $(document).ready(function () {
     document.addEventListener('statusTap', function(e) {
         $(".footer").css('top', $(window).height() - 100);
         $(window).resize();
-        $(".footer").html($(".footer").html() + ' | | '  + $(window).height() - 100));
+        $(".footer").html($(".footer").html() + ' | | '  + $(window).height() - 100);
     });
 
 });
