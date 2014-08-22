@@ -3,7 +3,7 @@ $(document).ready(function () {
     //document.addEventListener("deviceready", onDeviceReady, false);
     onDeviceReady();
     document.addEventListener('statusTap', function(e) {
-        $(".footer").css('top', $('.content').height());
+        $(".footer").css('top', $(window).height() - 100);
         //$(".footer").html($(".footer").html() + ' | | '  + $(document).height()));
     });
 
