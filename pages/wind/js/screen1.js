@@ -3,17 +3,17 @@ $(document).ready(function () {
     //document.addEventListener("deviceready", onDeviceReady, false);
     onDeviceReady();
     document.addEventListener('statusTap', function(e) {
-        $(".footer").css('top', $(window).height() - 100);
-        $(window).resize();
-        $(".footer").html($(".footer").html() + ' | | '  + $(window).height() - 100);
+        // $(".footer").css('top', $(window).height() - 100);
+        // $(window).resize();
+        // $(".footer").html($(".footer").html() + ' | | '  + $(window).height() - 100);
     });
 
 });
 
 $( window ).scroll(function() {
-  $(".footer").css('top', $(window).height() - 100);
-  console.log($(window).height());
-  console.log($(window).height() -180);
+  // $(".footer").css('top', $(window).height() - 100);
+  // console.log($(window).height());
+  // console.log($(window).height() -180);
         // $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height()  - 160));
     
 });
