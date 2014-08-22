@@ -2,6 +2,12 @@
 $(document).ready(function () {
     //document.addEventListener("deviceready", onDeviceReady, false);
     onDeviceReady();
+
+});
+
+$( window ).scroll(function() {
+  $(".footer").css('bottom',0);
+  console.log($(".footer").css('bottom'));
 });
 
 function onDeviceReady(){
