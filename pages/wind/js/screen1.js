@@ -7,10 +7,11 @@ $(document).ready(function () {
 
 });
 
-// $( window ).scroll(function() {
-//   $(".footer").css('bottom',0);
-//   console.log($(".footer").css('bottom'));
-// });
+$( window ).scroll(function() {
+  $(".footer").css('bottom',0);
+  $(".footer").html($(".footer").html() + ' <br/>| | '  + $(".footer").css('bottom'));
+  console.log($(".footer").css('bottom'));
+});
 
 function onDeviceReady(){
 	console.log("onDeviceReady");
