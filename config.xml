@@ -25,14 +25,14 @@
     <gap:splash src="res/screen/ios/bg_1024x768.png" gap:platform="ios" width="1024" height="768" />
     
     <platform name="ios">
-              <!-- iOS 7.0+ -->
+              <!-- ios 7.0+ -->
               <!-- iPhone / iPod Touch  -->
               <icon src="res/ios/ios_57.png" width="60" height="60" />
               <icon src="res/ios/ios_114.png" width="120" height="120" />
               <!-- iPad -->
               <icon src="res/ios/ios_72.png" width="76" height="76" />
               <icon src="res/ios/ios_72.png" width="152" height="152" />
-              <!-- iOS 6.1 -->
+              <!-- ios 6.1 -->
               <!-- Spotlight Icon -->
               <icon src="res/ios/ios_57.png" width="40" height="40" />
               <icon src="res/ios/ios_114.png" width="80" height="80" />
@@ -44,19 +44,19 @@
               <icon src="res/ios/ios_114.png" width="144" height="144" />
 
               <!-- iPhone and iPod touch -->
-              <gap:screen src="res/screen/IOS/bg_320x480.jpg" gap:platform="ios" width="320" height="480" />
-              <gap:screen src="res/screen/IOS/bg_640x960.jpg" gap:platform="ios" width="640" height="960" />
+              <gap:screen src="res/screen/ios/bg_320x480.png" gap:platform="ios" width="320" height="480" />
+              <gap:screen src="res/screen/ios/bg_640x960.png" gap:platform="ios" width="640" height="960" />
 
               <!-- iPhone 5 / iPod Touch (5th Generation) -->
-              <gap:screen src="res/screen/IOS/bg_640x1136.jpg" gap:platform="ios" width="640" height="1136" />
+              <gap:screen src="res/screen/ios/bg_640x1136.png" gap:platform="ios" width="640" height="1136" />
 
               <!-- iPad -->
-              <gap:screen src="res/screen/IOS/bg_768x1004.jpg" gap:platform="ios" width="768" height="1024" />
-              <gap:screen src="res/screen/IOS/bg_1024x768.jpg" gap:platform="ios" width="1024" height="768" />
+              <gap:screen src="res/screen/ios/bg_768x1004.png" gap:platform="ios" width="768" height="1024" />
+              <gap:screen src="res/screen/ios/bg_1024x768.png" gap:platform="ios" width="1024" height="768" />
 
               <!-- Retina iPad -->
-              <gap:screen src="res/screen/IOS/bg_1536x2008.jpg" gap:platform="ios" width="1536" height="2048" />
-              <gap:screen src="res/screen/IOS/bg_2048x1496.jpg" gap:platform="ios" width="2048" height="1536" />
+              <gap:screen src="res/screen/ios/bg_1536x2008.png" gap:platform="ios" width="1536" height="2048" />
+              <gap:screen src="res/screen/ios/bg_2048x1496.png" gap:platform="ios" width="2048" height="1536" />
      </platform>
 
      <platform name="android">
