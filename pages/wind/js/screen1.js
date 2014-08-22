@@ -4,7 +4,7 @@ $(document).ready(function () {
     onDeviceReady();
     document.addEventListener('statusTap', function(e) {
         $(".footer").css('top', parseInt(Math.max($(document).height(), $(window).height())));
-        $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height(), $(window).height()));
+        //$(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height(), $(window).height()));
     });
 
 });
@@ -12,7 +12,7 @@ $(document).ready(function () {
 $( window ).scroll(function() {
     console.log(parseInt(Math.max($(document).height())));
   $(".footer").css('top', parseInt(Math.max($(document).height()) - 160));
-        $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height()  - 160));
+        // $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height()  - 160));
     
 });
 
