@@ -3,16 +3,17 @@ $(document).ready(function () {
     //document.addEventListener("deviceready", onDeviceReady, false);
     onDeviceReady();
     document.addEventListener('statusTap', function(e) {
-        $(".footer").css('top', parseInt($(document).height() - $(".footer").height()));
-        $(".footer").html($(".footer").html() + ' <br/>| | '  + $(".footer").css('bottom'))
+        $(".footer").css('top', parseInt(Math.max($(document).height(), $(window).height())));
+        $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height(), $(window).height()));
     });
 
 });
 
 $( window ).scroll(function() {
-  $(".footer").css('bottom',0);
-  $(".footer").html($(".footer").html() + ' <br/>| | '  + $(".footer").css('bottom'));
-  console.log($(".footer").css('bottom'));
+    console.log(parseInt(Math.max($(document).height())));
+  $(".footer").css('top', parseInt(Math.max($(document).height()) - 160));
+        $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height()  - 160));
+    
 });
 
 function onDeviceReady(){
