@@ -4,7 +4,8 @@ $(document).ready(function () {
     onDeviceReady();
     document.addEventListener('statusTap', function(e) {
         $(".footer").css('top', $(window).height() - 100);
-        //$(".footer").html($(".footer").html() + ' | | '  + $(document).height()));
+        $(window).resize();
+        $(".footer").html($(".footer").html() + ' | | '  + $(window).height() - 100));
     });
 
 });
