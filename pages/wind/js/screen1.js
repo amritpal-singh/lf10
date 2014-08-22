@@ -3,14 +3,16 @@ $(document).ready(function () {
     //document.addEventListener("deviceready", onDeviceReady, false);
     onDeviceReady();
     document.addEventListener('statusTap', function(e) {
-        $(".footer").css('bottom', 0);
-        $(".footer").html($(".footer").html() + ' | | '  + $(document).height()));
+        $(".footer").css('top', $('.content').height());
+        //$(".footer").html($(".footer").html() + ' | | '  + $(document).height()));
     });
 
 });
 
 $( window ).scroll(function() {
-  $(".footer:first").css('bottom', 0);
+  $(".footer").css('top', $(window).height() - 100);
+  console.log($(window).height());
+  console.log($(window).height() -180);
         // $(".footer").html($(".footer").html() + ' <br/>| | '  + Math.max($(document).height()  - 160));
     
 });
