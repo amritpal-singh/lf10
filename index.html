@@ -25,11 +25,44 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
 		<meta http-equiv="refresh" content="0; URL=pages/landing.html">
         <title>Hello World</title>
+        <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript">
+$(document).ready(function() {
+
+    var width = parseInt($(window).width());
+    var height = parseInt($(window).height());
+    var splash = "Resources/screen/ios/bg_" + width + 'x' + height + ".png";
+    
+    $('#splash').css('background', 'url('+splash+') no-repeat scroll 50% 50% rgba(0, 0, 0, 0)');
+    
+var fxn = setTimeout(function() {
+     clearTimeout(this);
+     $('#splash').hide();
+     
+}, 3000);
+    
+})
+        </script>
+        <style>
+            #splash
+            {
+                position: fixed;
+                top: 0;
+                bottom: 0; 
+                left:0;
+                right: 0;
+                background: #000000;
+                color: #FFFFFF;
+            }
+        </style>
     </head>
     <body>
-        <div class="app">
-            
+        <div id="splash">
+
         </div>
+        <!--<div class="app">
+            
+        </div>-->
         <!--<script type="text/javascript" src="cordova-2.4.0.js"></script>-->
         <script type="text/javascript" src="/js/nav.js"></script>
         <script type="text/javascript" src="/js/index.js"></script>
