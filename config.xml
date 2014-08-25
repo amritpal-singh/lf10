@@ -14,17 +14,21 @@
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        
+        TS TEAM
     </author>
     
     <icon src="res/android/icon-72-hdpi.png" />
-    <feature name="SplashScreen">
-      <param name="ios-package" value="CDVSplashScreen" />
-    </feature>
 
-    <gap:splash src="splash/ios/Default~iphone.png" gap:platform="ios" width="320" height="480" />
-    <gap:splash src="splash/ios/Default@2x~iphone.png" gap:platform="ios" width="640" height="960" />
-    <gap:splash src="splash/ios/Default_iphone5.png" gap:platform="ios" width="640" height="1136" />
-    <gap:splash src="splash/ios/Default-Portrait.png" gap:platform="ios" width="768" height="1004" />
-    <gap:splash src="splash/ios/Default-Landscape.png" gap:platform="ios" width="1024" height="768" />
+    <icon gap:platform="android" gap:qualifier="ldpi" src="res/android/icon-36-ldpi.png" />
+    <icon gap:platform="android" gap:qualifier="mdpi" src="res/android/icon-48-mdpi.png" />
+    <icon gap:platform="android" gap:qualifier="hdpi" src="res/android/icon-72-hdpi.png" />
+    <icon gap:platform="android" gap:qualifier="xhdpi" src="res/android/icon-96-xhdpi.png" />
+    
+    <icon gap:platform="ios" height="57" src="res/ios/icon-57.png" width="57" />
+    <icon gap:platform="ios" height="72" src="res/ios/icon-72.png" width="72" />
+    <icon gap:platform="ios" height="114" src="res/ios/icon-114.png" width="114" />
+    <icon gap:platform="ios" height="144" src="res/ios/icon-72-2x.png" width="144" />
+    
+    <access origin="*" />
+    
 </widget>
