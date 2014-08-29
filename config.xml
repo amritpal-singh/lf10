@@ -16,7 +16,7 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         TS TEAM
     </author>
-    <preference name="phonegap-version" value="3.5.0" />
+    
     <preference name="fullscreen" value="true" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <preference name="auto-hide-splash-screen" value="false" />
