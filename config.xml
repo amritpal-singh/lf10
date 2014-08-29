@@ -16,11 +16,10 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         TS TEAM
     </author>
-    
     <preference name="phonegap-version" value="3.5.0" />
-    <preference name="show-splash-screen-spinner" value="false" />
-    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="fullscreen" value="true" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
+    <preference name="auto-hide-splash-screen" value="false" />
 
     <icon src="res/android/icon-96-xhdpi.png" />
 
@@ -34,7 +33,6 @@
     <icon gap:platform="ios" height="114" src="res/ios/icon-114.png" width="114" />
     <icon gap:platform="ios" height="144" src="res/ios/icon-72-2x.png" width="144" />
     
-    <gap:splash gap:platform="ios" height="480" src="res/screen/ios/screen-iphone-portrait.png" width="320" />
     
     <access origin="*" />
     
