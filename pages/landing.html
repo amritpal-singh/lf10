@@ -6,9 +6,40 @@
 		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
 		<link rel="stylesheet" type="text/css" href="../css/cisc.css" />
 		<title>Landing Page</title>
+		<script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript">
+		$(document).ready(function() {
+
+			var width = parseInt($(window).width());
+			var height = parseInt($(window).height());
+			var port = "../res/splash/android/screen-xhdpi-portrait.jpg";
+			var land = "../res/splash/android/screen-xhdpi-landscape.jpg";
+			$('#splash').css("background","url("+port+")  no-repeat fixed center center rgba(0, 0, 0, 0)");
+			
+		var fxn = setTimeout(function() {
+			 clearTimeout(this);
+			 $('#splash').hide();
+			 
+		}, 3000);
+			
+		})
+        </script>
+        <style>
+        	#splash
+        	{
+        		background-size: cover!important;
+        		position: fixed;
+        		top: 0;
+        		bottom: 0; 
+        		left:0;
+        		right: 0;
+        		background: #000000;
+        		color: #FFFFFF;
+        	}
+        </style>
 		</head>
 	<body>
-	
+		<div id="splash"></div>
 		<div class="stage">
 		
 			<div class="row-fluid">
