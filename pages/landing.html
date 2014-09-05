@@ -6,40 +6,16 @@
 		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
 		<link rel="stylesheet" type="text/css" href="../css/cisc.css" />
 		<title>Landing Page</title>
-		<script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
-        <script type="text/javascript">
-		$(document).ready(function() {
-
-			var width = parseInt($(window).width());
-			var height = parseInt($(window).height());
-			var port = "../res/splash/android/screen-xhdpi-portrait.jpg";
-			var land = "../res/splash/android/screen-xhdpi-landscape.jpg";
-			$('#splash').css("background","url("+port+")  no-repeat fixed center center rgba(0, 0, 0, 0)");
-			
-		var fxn = setTimeout(function() {
-			 clearTimeout(this);
-			 $('#splash').hide();
-			 
-		}, 3000);
-			
-		})
-        </script>
-        <style>
-        	#splash
-        	{
-        		background-size: cover!important;
-        		position: fixed;
-        		top: 0;
-        		bottom: 0; 
-        		left:0;
-        		right: 0;
-        		background: #000000;
-        		color: #FFFFFF;
-        	}
+		<style>
+			.row-fluid a.span5.button
+			{
+				float: none;
+				margin: 8px 5px;
+				display: inline-block;
+			}
         </style>
 		</head>
 	<body>
-		<div id="splash"></div>
 		<div class="stage">
 		
 			<div class="row-fluid">
@@ -48,32 +24,32 @@
 				</div>
 			</div>
 			
-			<div class="row-fluid">
+			<div class="row-fluid" style="text-align:center">
 				<div class="span12">
 					<div class="row-fluid">
-						<a href="javascript:void(0)" onclick="goTo('wind')" class="span4 landing button">
+						<a href="javascript:void(0)" onclick="goTo('wind')" class="span5 landing button">
 							<img class="landingicon" src="../img/icon_formula.svg"/>
 				    		<h1>Lateral Forces NBC 2010<br>(WIND)</h1>
 						</a>
-						<a href="javascript:void(0)" onclick="goTo('seismic')" class="span4 landing button">
+						<a href="javascript:void(0)" onclick="goTo('seismic')" class="span5 landing button">
 							<img class="landingicon" src="../img/icon_formula.svg"/>
 				    		<h1>Lateral Forces NBC 2010<br>(SEISMIC)</h1>
 						</a>
-						<a href="directory/index.html" class="span4 landing button">
+						<!-- <a href="directory/index.html" class="span4 landing button">
 							<img class="landingicon" src="../img/icon_members.svg"/>
 							<h1>Members & <br>Associates Directory</h1>
-						</a>
+						</a> -->
 					</div>
 				</div>
 			</div>
 			
-			<div class="row-fluid">
+			<div class="row-fluid" style="text-align:center">
 				<div class="span12">
 					<div class="row-fluid">
-						<a href="saved/wind.html" class="span4 landing button saved">
+						<a href="saved/wind.html" class="span5 landing button saved">
 				    		<h1>Saved WIND<br>Outputs</h1>
 						</a>
-						<a href="saved/seismic.html" class="span4 landing button saved">
+						<a href="saved/seismic.html" class="span5 landing button saved">
 				    		<h1>Saved SEISMIC<br>Outputs</h1>
 						</a>
 					</div>
