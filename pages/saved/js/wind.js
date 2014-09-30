@@ -7,11 +7,13 @@ function SavedViewModel(items)
 
     self.navigate = function(item) {
         window.localStorage.setItem(storageKeys.windSessionOutput, ko.toJSON(item.data));
+		window.phoneGapDB.setItem(storageKeys.windSessionOutput, ko.toJSON(item.data));
         for(var i = 0; i < self.raw.length; i++)
         {
             if(self.raw[i].id == item.id)
             {
                 window.localStorage.setItem(storageKeys.windSessionInput, ko.toJSON(self.raw[i]));
+				window.phoneGapDB.setItem(storageKeys.windSessionInput, ko.toJSON(self.raw[i]));
                 break;
             }
         }
@@ -19,6 +21,7 @@ function SavedViewModel(items)
     };
 
     self.delete = function(item) {
+	console.log(self.raw);
         for(var i = 0; i < self.raw.length; i++)
         {
             if(self.raw[i].id == item.id)
