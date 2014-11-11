@@ -13,7 +13,10 @@ function onDeviceReady()
     if(session)
     {
         var input = JSON.parse(session);
-        input = input.data.screen2ViewModel;
+        if(input.hasOwnProperty('data'))
+        {
+            input = input.data.screen2ViewModel;
+        }
 
         vm.projectName(input.screen1ViewModel.projectName);
         vm.user(input.screen1ViewModel.user);
@@ -32,14 +35,19 @@ function onDeviceReady()
             })
         );
 
-        vm.isUserSpecified(input.screen1ViewModel.isUserSpecified);
+        vm.isUserSpecified(false);
         if(input.screen1ViewModel.isUserSpecified == true)
         {
             vm.location().Sa02 = input.screen1ViewModel.location.Sa02;
             vm.location().Sa05 = input.screen1ViewModel.location.Sa05;
             vm.location().Sa10 = input.screen1ViewModel.location.Sa10;
             vm.location().Sa20 = input.screen1ViewModel.location.Sa20;
+
+            setTimeout(function(){vm.isUserSpecified(input.screen1ViewModel.isUserSpecified);}, 1000);
+
+            
         }
+        
 
         vm.importanceCategory(
             ko.utils.arrayFirst(vm.importanceCategories(), function(item) {

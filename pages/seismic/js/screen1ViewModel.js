@@ -65,6 +65,8 @@ function screen1ViewModel(){
     self.siteClass = ko.observable();
     
     self.isUserSpecified = ko.observable(false);
+    self.showAbbrivations = ko.observable(false);
+
     self.isUserSpecifiedAccel = ko.observable(false);
 
     self.isOtherSiteClass = ko.computed(function() {
@@ -93,4 +95,9 @@ function screen1ViewModel(){
     self._Sa05 = ko.observable();
     self._Sa10 = ko.observable();
     self._Sa20 = ko.observable();
+
+    self._inSa02 = ko.observable();
+    self._inSa05 = ko.observable();
+    self._inSa10 = ko.observable();
+    self._inSa20 = ko.observable();
 }

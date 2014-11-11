@@ -473,3 +473,19 @@ input[type="text"]{
 }
 
 }
+
+.abbrWrapper ul
+{
+    margin-top: 10px;
+    margin-left: 0!important;
+}
+
+.abbrWrapper ul li
+{
+    list-style: disc;
+}
+.abbrWrapper ul li,
+.abbrWrapper ul li label
+{
+    font-size: 12px;
+}

@@ -127,7 +127,21 @@
 						<th>S<sub>a</sub>(2.0)</th>
 					</thead>
 					<tbody>
-						<tr class="white">
+						<tr class="white" data-bind="ifnot: isUserSpecified">
+							<td>
+								<input type="number" data-bind="value: location().Sa02, enable: isUserSpecified" class="inputremove">
+							</td>
+							<td>
+								<input type="number" data-bind="value: location().Sa05, enable: isUserSpecified" class="inputremove">
+							</td>
+							<td>
+								<input type="number" data-bind="value: location().Sa10, enable: isUserSpecified" class="inputremove">
+							</td>
+							<td>
+								<input type="number" data-bind="value: location().Sa20, enable: isUserSpecified" class="inputremove">
+							</td>
+						</tr>
+						<tr class="white" data-bind="if: isUserSpecified">
 							<td>
 								<input type="number" data-bind="value: location().Sa02, enable: isUserSpecified" class="inputremove">
 							</td>
@@ -201,11 +215,24 @@
 					<div class="row-fluid">
 						<div class="span6 labelleft">Type of SFRS</div>
 						<div class="span6 labelright white">
-							<select data-bind="options: typesOfSFRS(), optionsText: 'StructuralSystem', optionsValue: this, value: xSelectedSFRS"></select>
+							<select data-bind="options: typesOfSFRS(), optionsText: 'Abbr', optionsValue: this, value: xSelectedSFRS"></select>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<div class="row-fluid abbrWrapper">
+	            <div class="span12">
+	            	<input type="checkbox" data-bind="checked: showAbbrivations" />Show abbrivations.<br/>
+	          	<div data-bind="if: showAbbrivations">
+	          		<ul  data-bind="foreach: typesOfSFRS()">
+	          			<li style="overflow:hidden">
+	          			 <!-- <label class="span3" data-bind="text: Abbr"></label> :   -->
+	          			 - <span data-bind="text: StructuralSystem"> </span></li>
+	          		</ul>
+	          	</div>
+	          	</div>
+	        </div>
 
             <div class="row-fluid">
                 <div class="span12">
@@ -233,7 +260,7 @@
 					<div class="row-fluid">
 						<div class="span6 labelleft">Type of SFRS</div>
 						<div class="span6 labelright white">
-							<select data-bind="options: typesOfSFRS(), optionsText: 'StructuralSystem', optionsValue: this, value: ySelectedSFRS"></select>
+							<select data-bind="options: typesOfSFRS(), optionsText: 'Abbr', optionsValue: this, value: ySelectedSFRS"></select>
 						</div>
 					</div>
 				</div>

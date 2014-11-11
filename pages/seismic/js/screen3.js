@@ -352,6 +352,11 @@ function calculations(viewModel, xORy){
         var vtotal = getVTotal(permitted, vAmp, totalW);
         var ft = getFt(permitted,taLoads, vtotal);
 
+        if(ampHn > 1){
+            viewModel.showS1609Note(true);
+            
+        }
+
         var vMin_TaD = getMinLateralEarthquakeForce(sTaMv_TaD, importance_Cate, rowRd, rowRo, permitted);
         var vMax_TaD = getUpperLimitV(s_02, rowRd, importance_Cate, rowRo, permitted);
         var vMaxRdRo_TaD = getShearCorr(sTaMv_TaD,importance_Cate,permitted);

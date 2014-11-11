@@ -64,7 +64,8 @@ function screen3ViewModel(session){
     self.showSAMessage = ko.observable(false);
     self.showXOtherSFRSMessage = ko.observable(false);
     self.showYOtherSFRSMessage = ko.observable(false);
-
+    self.showS1609Note = ko.observable(false);
+    
     self.edit = function() {
         var inputData = JSON.parse(window.localStorage.getItem(storageKeys.seismicSessionInput));
         var data = window.localStorage.getItem(storageKeys.seismicSavedOutput);

@@ -194,7 +194,12 @@
                         </tbody>
                     </table>
                     <p data-bind="visible: showXOtherSFRSMessage">
-                        * Reduction coefficient for base overturning moment is not applied.
+                        <p data-bind="hide: showS1609Note">    
+                            * Reduction coefficient for base overturning moment is not applied.
+                        </p>
+                    </p>
+                    <p data-bind="if: showS1609Note">
+                        Note: S16-09 load increase due to height has been incorporated.
                     </p>
                 </div>
                 
