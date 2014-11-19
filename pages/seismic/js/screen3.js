@@ -537,7 +537,7 @@ function setXObservables(viewModel, levels, totalW, displayPermitted, vtotal, ft
     viewModel.totalWeight(totalW);
     viewModel.xPermittedByNBC(displayPermitted);
     viewModel.xBaseShear(vtotal);
-    viewModel.xFinalList(levels);
+    viewModel.xFinalList(levels.reverse());
 
     viewModel.xTa(taLoads);
     viewModel.xSTa(sTa);
@@ -589,7 +589,7 @@ function setYObservables(viewModel, levels, totalW, displayPermitted, vtotal, ft
     viewModel.totalWeight(totalW);
     viewModel.yPermittedByNBC(displayPermitted);
     viewModel.yBaseShear(vtotal);
-    viewModel.yFinalList(levels);
+    viewModel.yFinalList(levels.reverse());
 
     viewModel.yTa(taLoads);
     viewModel.ySTa(sTa);
