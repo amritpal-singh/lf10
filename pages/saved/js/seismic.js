@@ -29,8 +29,12 @@ function SavedViewModel(items)
         }
 
         window.localStorage.setItem(storageKeys.seismicSavedOutput, ko.toJSON(self.raw));
-        window.phoneGapDB.setItem(storageKeys.seismicSavedOutput, ko.toJSON(self.raw));
-        self.refresh();
+        window.phoneGapDB.setItem(storageKeys.seismicSavedOutput, ko.toJSON(self.raw), function(err, data) {
+            if(!err){
+                self.refresh();
+            }
+        });
+        
     };
 
     self.refresh = function()

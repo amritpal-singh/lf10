@@ -42,7 +42,12 @@ window.phoneGapDB.successCB = function () {
     console.log("Table created successfully.");
 };
 
-window.phoneGapDB.setItem = function(key, data) {
+window.phoneGapDB.setItem = function(key, data, callback) {
+
+    if(typeof callback != 'function') {
+        callback = function () {};
+    }
+
     switch(key){
         case 'seismicSavedOutput' :
         case 'seismicSessionInput' :
@@ -76,12 +81,13 @@ window.phoneGapDB.setItem = function(key, data) {
                                     console.log(tx);
                                     console.log(err);
                                     console.groupEnd();
+                                    callback(true, err);
                                 },
                                 function () {
                                     console.group();
                                     console.log("Table generated successfully");
                                     console.groupEnd();
-
+                                    callback(false);
                                 });
     db.transaction(function(tx) {
                                                         that.insertRows(tx, data);

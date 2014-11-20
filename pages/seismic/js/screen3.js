@@ -352,7 +352,7 @@ function calculations(viewModel, xORy){
         var vtotal = getVTotal(permitted, vAmp, totalW);
         var ft = getFt(permitted,taLoads, vtotal);
 
-        if(ampHn > 1){
+        if(ampHn > 1 ampHn < 1.007){
             viewModel.showS1609Note(true);
             
         }

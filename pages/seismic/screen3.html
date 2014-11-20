@@ -20,7 +20,7 @@
                     </div>
                     <div class="span7">
                         <h2>
-                            LF10 - Lateral Forces NBC 2010 (Seismic)
+                            LF10 - Lateral Forces NBC 20120 (Seismic)
                         </h2>
                         <h3>
                             Equivalent Static Force Procedure
@@ -194,12 +194,13 @@
                         </tbody>
                     </table>
                     <p data-bind="visible: showXOtherSFRSMessage">
-                        <p data-bind="hide: showS1609Note">    
+                        <p data-bind="if: !showS1609Note">    
                             * Reduction coefficient for base overturning moment is not applied.
                         </p>
                     </p>
                     <p data-bind="if: showS1609Note">
-                        Note: S16-09 load increase due to height has been incorporated.
+                        Note: Load increases in accordance with S16-09 Clauses 27.5 and 27.11 have been incorporated."
+
                     </p>
                 </div>
                 
